@@ -1,73 +1,104 @@
-
 # Network Diagrams
 
 ## 1. Introduction
-Network diagrams provide a visual representation of network devices and their connections.
+
+This section contains sample network diagrams created to demonstrate my understanding of campus network architecture, network devices, connectivity and documentation.
 
 ## 2. Campus Network Architecture
 
-A typical campus network contains:
+A typical campus network consists of the following layers:
 
-- Core Layer – Provides high-speed connectivity.
-- Distribution Layer – Connects access switches and manages network traffic.
-- Access Layer – Connects end-user devices.
-- Firewall – Provides network security.
-- Wireless Access Points – Provide Wi-Fi connectivity.
+- **Core Layer:** Provides high-speed connectivity between network segments.
+- **Distribution Layer:** Connects access switches and manages network traffic.
+- **Access Layer:** Connects end-user devices such as computers, printers and IP phones.
+- **Firewall:** Provides network security and traffic filtering.
+- **Wireless Access Points:** Provide wireless network connectivity.
 
-## 3. Sample Campus Network Structure
+## 3. Sample Campus Network Topology
 
 ```text
-             INTERNET
-                 |
-              FIREWALL
-                 |
-             CORE SWITCH
-                 |
-       ---------------------
-       |                   |
- DISTRIBUTION SW       DISTRIBUTION SW
-       |                   |
-   ACCESS SW            ACCESS SW
-       |                   |
-   --------             --------
-   |      |             |      |
- PC/Laptop Phone       PC     Printer
+                 Internet
+                    |
+                 Firewall
+                    |
+                Core Switch
+                    |
+          ---------------------
+          |                   |
+    Distribution SW      Distribution SW
+          |                   |
+     Access Switches      Access Switches
+          |                   |
+    ----------------     ----------------
+    |       |      |     |       |      |
+   PCs    Phones Printers PCs   APs   Laptops
 ```
 
-## 4. Common Network Devices
+## 4. Network Diagram Presentation
+
+The following slides demonstrate sample campus network diagrams.
+
+### Slide 1 – Network Overview
+
+![Network Diagram Slide 1](./Slide1.PNG)
+
+### Slide 2 – Network Architecture
+
+![Network Diagram Slide 2](./Slide2.PNG)
+
+### Slide 3 – Network Connectivity
+
+![Network Diagram Slide 3](./Slide3.PNG)
+
+### Slide 4 – Network Details
+
+![Network Diagram Slide 4](./Slide4.PNG)
+
+**PowerPoint Presentation:** [View or Download Network Diagram Presentation](./Github%20Network%20Diagram.pptx)
+
+## 5. Common Network Devices
 
 | Device | Purpose |
 |---|---|
-| Router | Connects different networks |
-| Firewall | Network security |
 | Core Switch | Main network connectivity |
-| Access Switch | Connects end devices |
-| Wireless AP | Provides Wi-Fi |
-| IP Phone | Voice communication |
+| Distribution Switch | Connects access switches |
+| Access Switch | Connects end-user devices |
+| Firewall | Network security |
+| Wireless Access Point | Wireless connectivity |
+| Router | Connects different networks |
 
-## 5. Network Diagram Tools
+## 6. Network Diagram Tools
 
-- Draw.io (diagrams.net)
+- Draw.io
 - Microsoft Visio
 - Cisco Packet Tracer
 - EVE-NG
 
-## 6. Diagram Best Practices
+## 7. Network Documentation Best Practices
 
-1. Use clear device names.
-2. Label uplink connections.
-3. Mention VLAN IDs where appropriate.
-4. Show core and access layers clearly.
-5. Use consistent network symbols.
-6. Keep diagrams easy to understand.
+- Use clear device names.
+- Mention VLAN IDs where appropriate.
+- Show switch connections and uplinks.
+- Identify core, distribution and access layers.
+- Keep diagrams updated.
+- Avoid sharing confidential network information.
 
-## 7. Learning Objectives
+## 8. Skills Demonstrated
+
+- Campus network architecture
+- Cisco switching concepts
+- Network topology documentation
+- Network device identification
+- Network connectivity understanding
+- Technical documentation
+
+## 9. Learning Objectives
 
 - Understand campus network architecture.
-- Identify network devices and their roles.
-- Design logical network diagrams.
-- Document network connectivity.
+- Learn how network devices are interconnected.
+- Improve network documentation skills.
+- Develop practical networking knowledge.
 
-## Disclaimer
+## 10. Disclaimer
 
-This is a fictional campus network example created for educational purposes. It does not represent any actual organization's network.
+These diagrams are created for educational and portfolio purposes using sample network information. They do not represent an actual company or campus network.
