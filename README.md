@@ -1,16 +1,10 @@
 # Omkar Pednekar
+
 ### Network Support Engineer | Cisco Networking | IT Infrastructure
 
 Welcome to my GitHub portfolio!
 
-I am a Network Support Engineer working through SVN Systech India Private Limited, supporting IBM at Manipal Academy of Higher Education (MAHE), Manipal, Karnataka.
-
-## Professional Experience
-
-- Designation: Network Support Engineer
-- Payroll Company: SVN Systech India Private Limited
-- Client: IBM
-- Work Environment: MAHE
+I am a Network Support Engineer with experience in enterprise IT infrastructure, Cisco networking, network troubleshooting and desktop support.
 
 ## Technical Skills
 
@@ -20,14 +14,14 @@ I am a Network Support Engineer working through SVN Systech India Private Limite
 - EtherChannel
 - MAC Address Troubleshooting
 - Port Security
-- DHCP Troubleshooting
-- IP Address Troubleshooting
+- DHCP and IP Troubleshooting
 - Cisco IP Phones and CUCM
 - Webex Administration
+- Desktop and Printer Support
 - Network Documentation
 - Network Diagrams
 
-## Technologies and Tools
+## Tools and Technologies
 
 - Cisco IOS CLI
 - Cisco Catalyst Switches
@@ -35,6 +29,7 @@ I am a Network Support Engineer working through SVN Systech India Private Limite
 - Draw.io
 - GitHub
 - Cisco Packet Tracer
+- EVE-NG
 
 ## My Projects
 
@@ -44,15 +39,17 @@ I am a Network Support Engineer working through SVN Systech India Private Limite
 4. STP and EtherChannel
 5. Network Troubleshooting
 6. DHCP and IP Addressing
-7. Campus Network Diagrams
-8. Cisco IP Phone Troubleshooting
+7. Network Diagrams
+8. Cisco IP Phones and CUCM
 9. Network Documentation
 10. Networking Labs
 
-## Career Goal
+## Career Objective
 
-Continuously improving my networking, troubleshooting
-and infrastructure skills through practical projects.
+To continuously improve my networking, troubleshooting and IT infrastructure skills through practical projects and hands-on learning.
 
----
+## Disclaimer
+
+This portfolio contains educational projects and fictional network examples. No confidential company, client or organizational information is shared.
+
 Thank you for visiting my portfolio!
